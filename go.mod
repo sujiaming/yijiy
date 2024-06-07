@@ -1,4 +1,4 @@
-module yijiy
+module mingplay
 
 go 1.22
 

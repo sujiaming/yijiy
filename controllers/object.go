@@ -1,8 +1,8 @@
 package controllers
 
 import (
+	"mingplay/models"
 	"encoding/json"
-	"yijiy/models"
 
 	beego "github.com/beego/beego/v2/server/web"
 )
@@ -89,3 +89,4 @@ func (o *ObjectController) Delete() {
 	o.Data["json"] = "delete success!"
 	o.ServeJSON()
 }
+

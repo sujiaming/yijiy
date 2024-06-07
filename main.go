@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "yijiy/routers"
+	_ "mingplay/routers"
 
 	beego "github.com/beego/beego/v2/server/web"
 )

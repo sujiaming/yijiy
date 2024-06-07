@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"yijiy/controllers"
+	"mingplay/controllers"
 
 	beego "github.com/beego/beego/v2/server/web"
 )
